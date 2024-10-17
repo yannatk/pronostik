@@ -1,4 +1,4 @@
-package com.example.pronostik
+package yann.nara.pronostik
 
 import io.flutter.embedding.android.FlutterActivity
 
